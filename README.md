@@ -59,7 +59,7 @@ Jupyter notebooks are JSON files with a `.ipynb` extension. Here's how to commit
 
 ## Submitting your work
 
-When you've completed your work, you can submit the assignment by merging the `lastname_firstname_dev` into the main branch of your fork:
+When you've completed your work, you can submit the assignment by merging the `lastname_firstname_dev` into the main branch of your fork. You can do this either via the command line or the Github web interface.
 
 #### Command line: 
 
