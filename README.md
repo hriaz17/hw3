@@ -85,6 +85,18 @@ When you've completed your work, you can submit the assignment by merging the `l
    ```
 
 #### Web Interface:
+1. Once you push a commit to your dev branch, you will see the option to "Compare & pull request". Click that option:
+![screenshot-1](images/screenshot-1.png)
+
+2. This will take you to the "Comparing changes" screen. Once there, make sure to select the **second** option from the dropdown menu that corresponds to your repository and not the assignment base repository: 
+![screenshot-2](images/screenshot-2.png)
+
+3. Click the "Create pull request" button 
+![screenshot-3](images/screenshot-3.png)
+
+4. Click the "Merge pull request" button
+![screenshot-4](images/screenshot-4.png)
+
 
 Your instructor will review and grade the work from your last merge. Make sure to merge before the assignment deadline! Any commits merged after the deadline will not be considered for grading.
 
