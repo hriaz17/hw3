@@ -61,6 +61,8 @@ Jupyter notebooks are JSON files with a `.ipynb` extension. Here's how to commit
 
 When you've completed your work, you can submit the assignment by merging the `lastname_firstname_dev` into the main branch of your fork:
 
+#### Command line: 
+
 1. Ensure you're on the `lastname_firstname_dev` branch:
    ```
    git checkout lastname_firstname_dev
@@ -81,6 +83,8 @@ When you've completed your work, you can submit the assignment by merging the `l
    ```
    git push origin main
    ```
+
+#### Web Interface:
 
 Your instructor will review and grade the work from your last merge. Make sure to merge before the assignment deadline! Any commits merged after the deadline will not be considered for grading.
 
